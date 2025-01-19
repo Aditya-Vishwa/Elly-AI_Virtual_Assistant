@@ -53,6 +53,14 @@ This repository contains the source code for a Virtual AI Assistant named **Elly
 
 ### Prerequisites
 - Python 3.8 or later
+- Create Virtual Environment:
+  ```bash
+  python -m venv .venv
+  ```
+- Activate Virtual Environment:
+  ```bash
+  .venv\Scripts\activate
+  ```
 - Install required libraries using `pip`:
   ```bash
   pip install -r requirements.txt
@@ -70,11 +78,11 @@ This repository contains the source code for a Virtual AI Assistant named **Elly
 3. Replace `D:/Musics/` in `play_folder_music()` to yours.
 
 ### Usage
-1. Run the `main.py` script:
+2. Run the `main.py` script:
    ```bash
    python main.py
    ```
-2. Use voice commands to interact with Elly. Examples:
+3. Use voice commands to interact with Elly. Examples:
    - "Play music."
    - "Play Despacito Song" To play specific song like Despacito
    - "Search for Python programming."
