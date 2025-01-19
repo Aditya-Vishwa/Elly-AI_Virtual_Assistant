@@ -1,6 +1,6 @@
 # Elly - A Virtual AI Assistant
 
-This repository contains the source code for a Virtual AI Assistant named **Elly**. Elly can perform various tasks like telling jokes, playing music, searching for information, controlling applications, and more. The assistant leverages APIs like Groq and Google Cloud YouTube Data API to provide interactive and personalized experiences and much more
+This repository contains the source code for a Virtual AI Assistant named **Elly**. Elly can perform various tasks like telling jokes, playing music, searching for information, controlling applications, and more. The assistant leverages APIs like Groq and Google Cloud YouTube Data API to provide interactive and personalized experiences and much more.
 
 ---
 
@@ -52,7 +52,7 @@ This repository contains the source code for a Virtual AI Assistant named **Elly
 ## Installation and Setup
 
 ### Prerequisites
-- Python 3.7 or later
+- Python 3.8 or later
 - Install required libraries using `pip`:
   ```bash
   pip install -r requirements.txt
@@ -67,6 +67,7 @@ This repository contains the source code for a Virtual AI Assistant named **Elly
      "API_KEY_GROQ": "YOUR_GROQ_API_KEY"
    }
    ```
+3. Replace `D:/Musics/` in `play_folder_music()` to yours.
 
 ### Usage
 1. Run the `main.py` script:
@@ -75,6 +76,7 @@ This repository contains the source code for a Virtual AI Assistant named **Elly
    ```
 2. Use voice commands to interact with Elly. Examples:
    - "Play music."
+   - "Play "Song Name" Song" To play specific song
    - "Search for Python programming."
    - "Open Google."
    - "Tell me a joke."
