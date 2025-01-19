@@ -76,7 +76,7 @@ This repository contains the source code for a Virtual AI Assistant named **Elly
    ```
 2. Use voice commands to interact with Elly. Examples:
    - "Play music."
-   - "Play "Song Name" Song" To play specific song
+   - "Play Despacito Song" To play specific song like Despacito
    - "Search for Python programming."
    - "Open Google."
    - "Tell me a joke."
