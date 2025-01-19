@@ -1,0 +1,16 @@
+tempfile
+pydub
+speechrecognition
+wikipedia
+webbrowser
+pyautogui
+pygame
+gTTS
+os-sys
+jsonlib
+pyaudio
+requests
+beautifulsoup4
+google-api-python-client
+groq
+re
