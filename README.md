@@ -1,6 +1,6 @@
 # Elly - A Virtual AI Assistant
 
-This repository contains the source code for a Virtual AI Assistant named **Elly**. Elly can perform various tasks like telling jokes, playing music, searching for information, controlling applications, and more. The assistant leverages APIs like Groq and Google Cloud YouTube Data API to provide interactive and personalized experiences.
+This repository contains the source code for a Virtual AI Assistant named **Elly**. Elly can perform various tasks like telling jokes, playing music, searching for information, controlling applications, and more. The assistant leverages APIs like Groq and Google Cloud YouTube Data API to provide interactive and personalized experiences and much more
 
 ---
 
