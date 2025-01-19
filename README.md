@@ -59,7 +59,7 @@ This repository contains the source code for a Virtual AI Assistant named **Elly
   ```
 
 ### Configure API Keys
-1. Create a `key.json` file in the root directory.
+1. Create a `key.json` file in the root directory if not there.
 2. Add your API keys in the following format:
    ```json
    {
