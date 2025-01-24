@@ -61,6 +61,10 @@ This repository contains the source code for a Virtual AI Assistant named **Elly
   ```bash
   .venv\Scripts\activate
   ```
+  or
+  ```bash
+  .venv\Scripts\Activate.ps1
+  ```
 - Install required libraries using `pip`:
   ```bash
   pip install -r requirements.txt
