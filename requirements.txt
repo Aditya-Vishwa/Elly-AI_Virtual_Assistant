@@ -4,6 +4,7 @@ wikipedia
 pygame
 pyaudio
 pyautogui
+groq
 gtts
 requests
 beautifulsoup4
