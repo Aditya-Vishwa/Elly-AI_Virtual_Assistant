@@ -61,7 +61,7 @@ This repository contains the source code for a Virtual AI Assistant named **Elly
   ```bash
   .venv\Scripts\activate
   ```
-  or
+  or if using powershell
   ```bash
   .venv\Scripts\Activate.ps1
   ```
