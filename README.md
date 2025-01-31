@@ -52,6 +52,11 @@ This repository contains the source code for a Virtual AI Assistant named **Elly
 ## Installation and Setup
 
 ### Prerequisites
+- ffmpeg
+  <br>
+  <a href="#">Download Now</a>
+  <br>
+  `Extract and Add bin to Path`
 - Python 3.8 or later
 - Create Virtual Environment:
   ```bash
